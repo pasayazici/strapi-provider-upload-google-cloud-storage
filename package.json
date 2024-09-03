@@ -1,6 +1,6 @@
 {
   "name": "@strapi-community/strapi-provider-upload-google-cloud-storage",
-  "version": "4.29.5",
+  "version": "4.25.9",
   "description": "(Non-official) Google Cloud Storage Provider for Strapi Upload - Fork and Maintenance by Paşa Yazıcı",
   "keywords": [
     "strapi",
